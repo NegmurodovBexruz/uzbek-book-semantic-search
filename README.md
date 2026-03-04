@@ -137,7 +137,7 @@ python src/search.py
 Example query:
 
 ```
-me'roj nima
+kitob nima haqida?
 ```
 
 The system will return the book title, section heading and the most relevant passage.
