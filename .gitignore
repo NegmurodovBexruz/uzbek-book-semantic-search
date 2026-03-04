@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Environment
+.env
+
+.idea/
+
+# ignore contents but keep folder
+books/*
+db/*
+
+# keep folder placeholder
+!books/.gitkeep
+!db/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
